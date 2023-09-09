@@ -1,2 +1,5 @@
 openai
 langchain
+requests
+PIL
+io
